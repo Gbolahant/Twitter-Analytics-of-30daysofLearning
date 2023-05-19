@@ -25,4 +25,12 @@ During the data preparation phase of the #30DAYSOFLEARNING Twitter hashtag analy
 
 - Day Name Abbreviation: To further enhance readability and visual presentation, the first three letters of the day name were extracted to create an abbreviated version (e.g., Mon, Tue). This transformation allows for concise representation of the day names in visualizations and analysis.
 
-By performing these data transformations, the dataset now includes additional columns for date, day name, and abbreviated day name. These transformations enable more granular analysis and visualization of the #30DAYSOFLEARNING hashtag data, specifically focusing on specific dates and daily patterns. These transformed columns can be utilized in Power BI to create informative charts, tables, and filters that provide insights into the temporal aspects of the campaign.
+By performing these data transformations, the dataset now includes additional columns for date, day name. These transformations enable more granular analysis and visualization of the #30DAYSOFLEARNING hashtag data, specifically focusing on specific dates and daily patterns. These transformed columns can be utilized in Power BI to create informative charts, tables, and filters that provide insights into the temporal aspects of the campaign.
+
+## Data modelling
+No model required as its just a single table.
+
+## Data Visualization
+
+### Summary
+![](SummaryPage.png)
