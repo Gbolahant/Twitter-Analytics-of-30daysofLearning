@@ -27,6 +27,8 @@ During the data preparation phase of the #30DAYSOFLEARNING Twitter hashtag analy
 
 By performing these data transformations, the dataset now includes additional columns for date, day name. These transformations enable more granular analysis and visualization of the #30DAYSOFLEARNING hashtag data, specifically focusing on specific dates and daily patterns. These transformed columns can be utilized in Power BI to create informative charts, tables, and filters that provide insights into the temporal aspects of the campaign.
 
+![](Transformations.png)
+
 ## Data modelling
 No model required as its just a single table.
 
