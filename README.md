@@ -74,13 +74,13 @@ The analysis of the #30DAYSOFLEARNING Twitter hashtag using Power BI has provide
 
 Based on the analysis and insights gained from the #30DAYSOFLEARNING Twitter hashtag, the following recommendations can be made:
 
-Content Strategy: Recognize the popularity of GitHub and tailor the campaign content to align with the preferences of the learning community. Emphasize the usage of GitHub as a documentation tool and provide resources, tutorials, and discussions around its effective utilization.
+**Content Strategy**: Recognize the popularity of GitHub and tailor the campaign content to align with the preferences of the learning community. Emphasize the usage of GitHub as a documentation tool and provide resources, tutorials, and discussions around its effective utilization.
 
-Mobile Optimization: Given the majority of users engaging through Android devices, ensure that the campaign's content, visuals, and resources are optimized for mobile viewing and interaction. This includes responsive design, mobile-friendly layouts, and seamless user experiences on Android devices.
+**Mobile Optimization**: Given the majority of users engaging through Android devices, ensure that the campaign's content, visuals, and resources are optimized for mobile viewing and interaction. This includes responsive design, mobile-friendly layouts, and seamless user experiences on Android devices.
 
-Weekday Focus: Capitalize on the higher engagement levels observed on weekdays, particularly Wednesdays. Plan and schedule key campaign activities, announcements, and interactive sessions to align with these peak engagement periods to maximize participation and impact.
+**Weekday Focus**: Capitalize on the higher engagement levels observed on weekdays, particularly Wednesdays. Plan and schedule key campaign activities, announcements, and interactive sessions to align with these peak engagement periods to maximize participation and impact.
 
-Hashtag Utilization: Maintain the prominence of the hashtags #NG30DAYSOFLEARNING and #30DAYSOFLEARNING in campaign communications, promotions, and discussions. Encourage participants to include these hashtags in their tweets and amplify their usage through engaging and shareable content.
+**Hashtag Utilization**: Maintain the prominence of the hashtags #NG30DAYSOFLEARNING and #30DAYSOFLEARNING in campaign communications, promotions, and discussions. Encourage participants to include these hashtags in their tweets and amplify their usage through engaging and shareable content.
 
 By implementing these recommendations, the #30DAYSOFLEARNING campaign can further enhance its effectiveness, reach, and impact. Continuously monitor and analyze the campaign's performance using tools like Power BI to gather insights and adjust strategies accordingly. This iterative approach will ensure the campaign remains dynamic, engaging, and aligned with the evolving needs and preferences of the learning community.
 
